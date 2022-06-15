@@ -1,4 +1,6 @@
 draw/
 rank/
 result/
+.idea/
+_pycache_/
 readme
