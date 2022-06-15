@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a8abadf3-09d5-4ee3-b9bc-b70f9c736959" name="public">
+        <fileTransfer accessType="SFTP" host="ai.danlu.netease.com" port="19763" sshConfigId="ef59e551-602a-4f35-850b-5298c5a97a8d" sshConfig="root@ai.danlu.netease.com:19763 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
