@@ -42,7 +42,7 @@ The figure below gives an overview of the our framework.
 
 ## Requirements
 
-**Main dependencies:**
+**Main dependencies: **
 
 - [Python](https://www.python.org/) (>=3.5)
 - [pandas](https://pandas.pydata.org/) (>=0.23.4)
